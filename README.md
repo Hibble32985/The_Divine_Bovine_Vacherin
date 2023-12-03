@@ -16,6 +16,9 @@ Blocks will indicate the span of any given task or activity.  They will be color
 **<u> REPOSITORY URL: <u>**
 
 **<u> ACKNOWLEDGMENTS: <u>**
+
 Georgeyoo: coding-boot-camp/crispy-octo-meme used for index.html starter code
+
 Image: https://bootcampspot.instructure.com/courses/4478/assignments/64715?module_item_id=1116827; image stitched together from Challenge 5 mock up
+
 Xpert Learning Assistant: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality

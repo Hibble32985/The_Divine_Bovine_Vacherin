@@ -15,7 +15,9 @@ Blocks will indicate the span of any given task or activity.  They will be color
 **<u> DEPLOYMENT URL: <u>**
 
 
+
 **<u> REPOSITORY URL: <u>**
+
 
 
 **<u>static image of work scheduler<u>**:
@@ -23,7 +25,7 @@ Blocks will indicate the span of any given task or activity.  They will be color
 ![Uploading PP work scheduler pic.jpg.png…]()
 ![image]
 
-animated image of work scheduler<u>**:
+**animated image of work scheduler<u>**:
 ![05-third-party-apis-homework-demo]
 ![Uploading 05-third-party-apis-homework-demo.gif…]()
 

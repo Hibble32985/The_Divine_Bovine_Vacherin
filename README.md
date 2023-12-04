@@ -13,23 +13,19 @@ The planner must have specific characteristics in order to be properly functiona
 Blocks will indicate the span of any given task or activity.  They will be color-coded to define whether an entry occurred in the past, is in the present or meant for future consideration.  Upon selecting a time block by clicking on it an entry can be done immediatley and easily without having to scroll or move to another section.  In addition, following this action, an entry can be saved to indicate the time blocked by clicking on a "save" button which will retain the entry in local storage.  Each time the calendar planner site is refreshed and re-rendered, the saved event will remain and be accessible.
 
 **<u> DEPLOYMENT URL: <u>**
-
-
+ https://hibble32985.github.io/The_Divine_Bovine_Vacherin/
 
 **<u> REPOSITORY URL: <u>**
 https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/tree/main
 
 
-**<u>static image of work scheduler<u>**:
-![PP work scheduler pic jpg]
-![Uploading PP work scheduler pic.jpg.png…]()
-![image]
+**<u>animated image of work scheduler<u>**:
+https://1drv.ms/i/s!AgkCtpz1riGAiL5o0D9zTgICkhWWXg?e=VEEjDL
 
-**animated image of work scheduler<u>**:
-![05-third-party-apis-homework-demo]
-![Uploading 05-third-party-apis-homework-demo.gif…]()
+**static image of work scheduler<u>**:
+https://1drv.ms/i/s!AgkCtpz1riGAiL5ie-KsjEqvPnedAQ?e=YwewOb
 
-**<u> ACKNOWLEDGMENTS: <u>**
+## **ACKNOWLEDGMENTS:**
 
 **Amanda Paulette**: tutor, helped create most of the files while teaching mechanics
 
@@ -44,7 +40,7 @@ https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/tree/main
 **Georgeyoo**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging, https://github.com/coding-boot-camp/crispy-octo-meme/tree/main/Develop
 
 **Xpert Learning Assistant**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
-
+https://1drv.ms/i/s!AgkCtpz1riGAiL47K-SCj28IGQ9rCQ?e=LpbASE
 **AskBCS**: Tyler, David, Maylena
 
 Thank you for reviewing my repository.  And, please meet the Swiss Miss Vacherin for whom this repository is named. Moo.

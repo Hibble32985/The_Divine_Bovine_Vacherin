@@ -25,10 +25,6 @@ https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/blob/main/05-third-par
 ![animated image](https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/blob/main/05-third-party-apis-homework-demo.gif)
 
 
-**static image of work scheduler<u>**:
-https://1drv.ms/i/s!AgkCtpz1riGAiL8UWJnMKIM0B0hTmA?e=g1mzex
-![static image]https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/blob/main/PP work scheduler pic.jpg.png)
-
 
 ## **ACKNOWLEDGMENTS:**
 

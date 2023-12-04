@@ -6,6 +6,7 @@ This will assist considerably to add important events to what effectively is a d
 
 To satisfy the employee's specific needs, this planner must be daily in order to determine what tasks or activities are to occur or be considered on any given day.  This will essentially create a visible, persistently existing schedule for each day.
 
+
 The planner must have specific characteristics in order to be properly functional for the employee's needs.  For example, upon opening the planner, immediately the current day and date is displayed plainly and easily visible at the top of the calendar page. 
  As well, it must have the feature of when the text is scrolled down it will reflect time periods that can be marked to display time blocks for tasks and activities.  The calendar planner must reflect the specific work day the employee has daily which will be from 9am to 5pm.
 
@@ -13,26 +14,36 @@ Blocks will indicate the span of any given task or activity.  They will be color
 
 **<u> DEPLOYMENT URL: <u>**
 
+
 **<u> REPOSITORY URL: <u>**
 
-**<u> ACKNOWLEDGMENTS: <u>**
-**<u>Amanda Pauletter<u>**: tutor, helped create most of the files while teaching mechanics
-**<u>nicnolen<u>**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from **<u>Xpert Learning Assistant<u>**, used both to edit my files to test deployment and debug; https://github.com/nicnolen/work-scheduler/tree/eb19ac848b7cd2f0e35cdb7124bda072924f0974
-**<u>SylviaPrabudy<u>**:  reviewed scheduler files, made comparisons to what I wrote along with Ms. Paulette and recommendations from Xpert Learning Assistant, copied her third party gif of a demo of the scheduler as I could only obtain a static image to present, used files to edit my files and to test deployment and debug; https://github.com/sylviaprabudy/work-day-scheduler
 
-**<u>static image of work scheduler:
+**<u>static image of work scheduler<u>**:
 ![PP work scheduler pic jpg]
-**<u>animated image of work scheduler:
+![Uploading PP work scheduler pic.jpg.png…]()
+![image]
+
+animated image of work scheduler<u>**:
 ![05-third-party-apis-homework-demo]
+![Uploading 05-third-party-apis-homework-demo.gif…]()
 
-**<u>ThomasCalle<u>**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from Xpert Learning Assistant, used both to edit my files to test deployment and debug; https://github.com/ThomasCalle/Online-Workday-Planner/blob/main/index.html; youtube video explaining the project:  this was used to assist in gaining a better understanding of the challenge, https://www.youtube.com/watch?v=sm6py49QNto
-**<u>Georgeyoo<u>**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging
+**<u> ACKNOWLEDGMENTS: <u>**
 
-![PP work scheduler pic jpg](https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/assets/148695159/a8b9a9eb-f511-4b6d-80f8-c69465e963c7)
+**Amanda Paulette**: tutor, helped create most of the files while teaching mechanics
 
+**nicnolen**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from her
 
-**<u?Image<u>**: https://bootcampspot.instructure.com/courses/4478/assignments/64715?module_item_id=1116827; image stitched together from Challenge 5 mock up
-**<u>Xpert Learning Assistant<u>**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
+**Xpert Learning Assistant**, used both to edit my files to test deployment and debug; https://github.com/nicnolen/work-scheduler/tree/eb19ac848b7cd2f0e35cdb7124bda072924f0974
 
-Thank you for reviewing my repository.  And, please meet the Swiss Miss Vacherin. Moo.
+**SylviaPrabudy**:  reviewed scheduler files, made comparisons to what I wrote along with Ms. Paulette and recommendations from Xpert Learning Assistant, copied her third party gif of a demo of the scheduler as I could only obtain a static image to present, used files to edit my files and to test deployment and debug; https://github.com/sylviaprabudy/work-day-scheduler
+
+**ThomasCalle**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from Xpert Learning Assistant, used both to edit my files to test deployment and debug; https://github.com/ThomasCalle/Online-Workday-Planner/blob/main/index.html; youtube video explaining the project:  this was used to assist in gaining a better understanding of the challenge, https://www.youtube.com/watch?v=sm6py49QNto
+
+**Georgeyoo**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging
+
+**Xpert Learning Assistant**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
+
+**AskBCS**: Tyler, David, Maylena
+
+Thank you for reviewing my repository.  And, please meet the Swiss Miss Vacherin for whom this repository is named. Moo.
 ![Vacherin](https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/assets/148695159/0a561abc-2bf8-4832-8b6e-900d3cfcb577)

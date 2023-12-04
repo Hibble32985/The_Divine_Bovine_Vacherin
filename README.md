@@ -16,9 +16,23 @@ Blocks will indicate the span of any given task or activity.  They will be color
 **<u> REPOSITORY URL: <u>**
 
 **<u> ACKNOWLEDGMENTS: <u>**
+**<u>Amanda Pauletter<u>**: tutor, helped create most of the files while teaching mechanics
+**<u>nicnolen<u>**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from **<u>Xpert Learning Assistant<u>**, used both to edit my files to test deployment and debug; https://github.com/nicnolen/work-scheduler/tree/eb19ac848b7cd2f0e35cdb7124bda072924f0974
+**<u>SylviaPrabudy<u>**:  reviewed scheduler files, made comparisons to what I wrote along with Ms. Paulette and recommendations from Xpert Learning Assistant, copied her third party gif of a demo of the scheduler as I could only obtain a static image to present, used files to edit my files and to test deployment and debug; https://github.com/sylviaprabudy/work-day-scheduler
 
-Georgeyoo: coding-boot-camp/crispy-octo-meme used for index.html starter code
+**<u>static image of work scheduler:
+![PP work scheduler pic jpg]
+**<u>animated image of work scheduler:
+![05-third-party-apis-homework-demo]
 
-Image: https://bootcampspot.instructure.com/courses/4478/assignments/64715?module_item_id=1116827; image stitched together from Challenge 5 mock up
+**<u>ThomasCalle<u>**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from Xpert Learning Assistant, used both to edit my files to test deployment and debug; https://github.com/ThomasCalle/Online-Workday-Planner/blob/main/index.html; youtube video explaining the project:  this was used to assist in gaining a better understanding of the challenge, https://www.youtube.com/watch?v=sm6py49QNto
+**<u>Georgeyoo<u>**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging
 
-Xpert Learning Assistant: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
+![PP work scheduler pic jpg](https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/assets/148695159/a8b9a9eb-f511-4b6d-80f8-c69465e963c7)
+
+
+**<u?Image<u>**: https://bootcampspot.instructure.com/courses/4478/assignments/64715?module_item_id=1116827; image stitched together from Challenge 5 mock up
+**<u>Xpert Learning Assistant<u>**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
+
+Thank you for reviewing my repository.  And, please meet the Swiss Miss Vacherin. Moo.
+![Vacherin](https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/assets/148695159/0a561abc-2bf8-4832-8b6e-900d3cfcb577)

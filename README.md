@@ -33,15 +33,15 @@ Blocks will indicate the span of any given task or activity.  They will be color
 
 **Amanda Paulette**: tutor, helped create most of the files while teaching mechanics
 
-**nicnolen**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from her
+**nicnolen**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from her; https://github.com/nicnolen/work-scheduler/tree/eb19ac848b7cd2f0e35cdb7124bda072924f0974
 
-**Xpert Learning Assistant**, used both to edit my files to test deployment and debug; https://github.com/nicnolen/work-scheduler/tree/eb19ac848b7cd2f0e35cdb7124bda072924f0974
+**Xpert Learning Assistant**, used both to edit my files to test deployment and debug
 
 **SylviaPrabudy**:  reviewed scheduler files, made comparisons to what I wrote along with Ms. Paulette and recommendations from Xpert Learning Assistant, copied her third party gif of a demo of the scheduler as I could only obtain a static image to present, used files to edit my files and to test deployment and debug; https://github.com/sylviaprabudy/work-day-scheduler
 
 **ThomasCalle**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Pauletter and recommendations from Xpert Learning Assistant, used both to edit my files to test deployment and debug; https://github.com/ThomasCalle/Online-Workday-Planner/blob/main/index.html; youtube video explaining the project:  this was used to assist in gaining a better understanding of the challenge, https://www.youtube.com/watch?v=sm6py49QNto
 
-**Georgeyoo**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging
+**Georgeyoo**: coding-boot-camp/crispy-octo-meme used for index.html starter code, reviewed code to begin challenge, compared it to others and made attempts to write my own and compare for testing and debugging, https://github.com/coding-boot-camp/crispy-octo-meme/tree/main/Develop
 
 **Xpert Learning Assistant**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
 

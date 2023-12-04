@@ -42,6 +42,9 @@ https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/blob/main/05-third-par
 
 **Xpert Learning Assistant**: https://bootcampspot.instructure.com/courses/4478/external_tools/313; miscellaneous code throughout and to test, debug code to check functionality
 https://1drv.ms/i/s!AgkCtpz1riGAiL47K-SCj28IGQ9rCQ?e=LpbASE
+
+**mjgiannelli/work-day-scheduler**: reviewed scheduler files, made comparisons to what I wrote along with Ms. Paulette and recommendations from her; https://github.com/mjgiannelli/work-day-scheduler/blob/main/index.html
+
 **AskBCS**: Tyler, David, Maylena
 
 Thank you for reviewing my repository.  And, please meet the Swiss Miss Vacherin for whom this repository is named. Moo.

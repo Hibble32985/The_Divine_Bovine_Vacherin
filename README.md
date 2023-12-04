@@ -22,8 +22,10 @@ https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/tree/main
 **<u>animated image of work scheduler<u>**:
 https://1drv.ms/i/s!AgkCtpz1riGAiL5o0D9zTgICkhWWXg?e=VEEjDL
 
+
 **static image of work scheduler<u>**:
-https://1drv.ms/i/s!AgkCtpz1riGAiL5ie-KsjEqvPnedAQ?e=YwewOb
+https://1drv.ms/i/s!AgkCtpz1riGAiL8UWJnMKIM0B0hTmA?e=g1mzex
+
 
 ## **ACKNOWLEDGMENTS:**
 

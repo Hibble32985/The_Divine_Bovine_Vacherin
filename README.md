@@ -23,7 +23,7 @@ https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/tree/main
 https://1drv.ms/i/s!AgkCtpz1riGAiL5o0D9zTgICkhWWXg?e=VEEjDL
 
 **<u>static image of work scheduler<u>**
-https://1drv.ms/i/s!AgkCtpz1riGAiL8N51hMnFoQGicLgw?e=pjSeiy
+
 
 
 https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/blob/main/05-third-party-apis-homework-demo.gif
